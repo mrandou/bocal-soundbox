@@ -1,0 +1,12 @@
+<div class="card" (click)="playAudio(sound.url)">
+  <div class="picture" [ngStyle]="{'background-color': getColor(sound.id)}">
+    <img *ngIf="sound.pictureUrl" [src]="sound.pictureUrl"/>
+  </div>
+  <div class="title">
+    {{ sound.title }}
+  </div>
+</div>
+
+<!-- <div>
+  <button (click)="switchPlay()">PAUSE</button>
+</div> -->

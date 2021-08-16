@@ -221,10 +221,22 @@
     "pictureUrl": "https://i.skyrock.net/8074/60848074/pics/2492111643_4.gif",
     "url": "assets/sounds/je-vous-emmerde-et-je-rentre-a-ma-maison.mp3"
   },
-    {
+  {
     "id" : 34,
     "title" : "One Pound Fish",
     "pictureUrl": "https://i.makeagif.com/media/9-17-2015/-0L4nW.gif",
     "url": "assets/sounds/one-pound-fish.mp3"
+  },
+  {
+    "id" : 35,
+    "title" : "Burgir",
+    "pictureUrl": "https://media.tenor.com/images/7a031b35b7b855a7c610b6c8559aeadd/tenor.gif",
+    "url": "assets/sounds/burgir.mp3"
+  },
+  {
+    "id" : 36,
+    "title" : "Mais enfin Ron",
+    "pictureUrl": "https://i.makeagif.com/media/6-25-2015/ZTBXel.gif",
+    "url": "assets/sounds/mais-enfin-ron.mp3"
   }
 ]

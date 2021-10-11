@@ -1,4 +1,5 @@
 import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
+import { keyboardMap } from 'utilites/keyMap';
 
 export interface Sound {
   id: number
@@ -28,6 +29,10 @@ export class SoundCardComponent implements OnInit {
     if (index >= this.colors.length)
       return this.colors[index % this.colors.length]
     return this.colors[index];
+  }
+
+  public getKey(): string {
+    return (keyboardMap[this.sound.id])
   }
 
   public playAudio(audioUrl: string): void {

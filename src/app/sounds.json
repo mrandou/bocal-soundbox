@@ -262,5 +262,17 @@
     "title": "Thats what she said.",
     "pictureUrl": "https://media0.giphy.com/media/IjJ8FVe4HVk66yvlV2/giphy.gif",
     "url": "assets/sounds/thats-what-she-said.mp3"
+  },
+  {
+    "id": 45,
+    "title": "Groudou",
+    "pictureUrl": "https://media.giphy.com/media/LL59epKz5SWcyxmdiF/giphy.gif",
+    "url": "assets/sounds/groudou.mp3"
+  },
+  {
+    "id": 46,
+    "title": "Groudouuuuuuuuu!",
+    "pictureUrl": "https://media.giphy.com/media/ElFr0OPDAA60VIaJYN/giphy.gif",
+    "url": "assets/sounds/groudouuuuuuuuuu.mp3"
   }
 ]

@@ -328,5 +328,17 @@
     "title": "Je vais t'étrangler",
     "pictureUrl": "https://thumbs.gfycat.com/PlainWickedGoat-size_restricted.gif",
     "url": "assets/sounds/je-vais-t-etrangler.mp3"
+  },
+  {
+    "id": 55,
+    "title": "Quelle indignité",
+    "pictureUrl": "https://c.tenor.com/3wv4a0Qco7kAAAAC/sarkozy-indignit%C3%A9.gif",
+    "url": "assets/sounds/quelle-indignite.mp3"
+  },
+  {
+    "id": 56,
+    "title": "Stéphane",
+    "pictureUrl": "https://c.tenor.com/zvBu-3Fsx3MAAAAM/stephan-stephan-you-lie.gif",
+    "url": "assets/sounds/stephane.mp3"
   }
 ]

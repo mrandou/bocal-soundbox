@@ -12,8 +12,13 @@ export class AppComponent {
   title = 'bocal-soundbox';
   public sounds: Sound[] = data;
   public audiosList: HTMLAudioElement[] = [];
+  public isLoading: boolean = true;
 
-  constructor() {}
+  constructor() {
+    setTimeout(() => {
+      this.isLoading = false;
+    }, 3000)
+  }
 
   public pushToSoundList(audio: HTMLAudioElement): void {
     this.audiosList.push(audio);

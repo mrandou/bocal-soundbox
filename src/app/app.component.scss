@@ -26,3 +26,39 @@
     }
   }
 }
+
+.launcher-icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 250px;
+  transform: translate(-50%, -50%);
+  img {
+    width: 250px;
+  }
+  -webkit-animation: shadow-drop-center 0.5s cubic-bezier(0.47, 0, 0.745, 0.715)
+    infinite alternate-reverse both;
+  animation: shadow-drop-center 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) infinite
+    alternate-reverse both;
+}
+
+@-webkit-keyframes shadow-drop-center {
+  0% {
+    -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+  }
+  100% {
+    -webkit-box-shadow: 0 0 40px 0px rgba(119, 0, 0, 0.65);
+    box-shadow: 0 0 40px 0px rgba(119, 0, 0, 0.65);
+  }
+}
+@keyframes shadow-drop-center {
+  0% {
+    -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+  }
+  100% {
+    -webkit-box-shadow: 0 0 40px 0px rgba(119, 0, 0, 0.65);
+    box-shadow: 0 0 40px 0px rgba(119, 0, 0, 0.65);
+  }
+}

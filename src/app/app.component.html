@@ -3,7 +3,11 @@
 </div>
 
 <ng-template #App>
-  <div class="wrapper-cards">
+  <div class="toggle-wrapper">
+    <app-toggle (toggleValueEmitter)="extendedVersion = !extendedVersion"></app-toggle>
+    <div class="extended-info" [ngClass]="{'active': extendedVersion }">Extended Version</div>
+  </div>
+  <div class="wrapper-cards" *ngIf="!extendedVersion; else ExtendedOnly">
     <div *ngFor="let sound of sounds">
       <sound-card
         [sound]="sound"
@@ -11,6 +15,19 @@
       ></sound-card>
     </div>
   </div>
+
+  <ng-template #ExtendedOnly>
+    <div class="wrapper-cards">
+      <div *ngFor="let sound of sounds">
+        <sound-card
+          *ngIf="sound.extended"
+          [sound]="sound"
+          [isExtendedVersion]="true"
+          (playingAudio)="pushToSoundList($event)"
+        ></sound-card>
+      </div>
+    </div>
+  </ng-template>
 
   <div class="main-button">
     <button (click)="stopSounds()"><span>STOP</span></button>

@@ -340,5 +340,12 @@
     "title": "Stéphane",
     "pictureUrl": "https://c.tenor.com/zvBu-3Fsx3MAAAAM/stephan-stephan-you-lie.gif",
     "url": "assets/sounds/stephane.mp3"
+  },
+  {
+    "id": 57,
+    "title": "Ça va péter",
+    "pictureUrl": "https://c.tenor.com/h2BpRrOyw6gAAAAd/p%C3%A9ter-peter.gif",
+    "url": "assets/sounds/ca-va-peter-2.mp3",
+    "extended": "assets/sounds/extended/ca-va-peter-2-extended.mp3"
   }
 ]

@@ -4,7 +4,7 @@
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: center;
-  margin: 5%;
+  margin: 10px 5%;
 }
 
 .main-button {
@@ -61,4 +61,21 @@
     -webkit-box-shadow: 0 0 40px 0px rgba(119, 0, 0, 0.65);
     box-shadow: 0 0 40px 0px rgba(119, 0, 0, 0.65);
   }
+}
+
+.toggle-wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.extended-info {
+  font-size: 14px;
+  margin-top: 10px;
+  color: grey;
+}
+
+.active {
+  color: #ff854d;
 }

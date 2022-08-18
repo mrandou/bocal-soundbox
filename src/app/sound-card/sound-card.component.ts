@@ -6,6 +6,7 @@ export interface Sound {
   title: string;
   pictureUrl: string;
   url: string;
+  extended?: string;
 }
 
 @Component({
@@ -16,6 +17,7 @@ export interface Sound {
 export class SoundCardComponent implements OnInit {
   public colors: string[] = ["dodgerblue", "red", "yellow", "purple", "orange", "cyan", "greenyellow", "pink"];
   @Input() public sound: Sound;
+  @Input() public isExtendedVersion?: boolean;
   @Output() public playingAudio = new EventEmitter<HTMLAudioElement>();
 
   public audio: HTMLAudioElement;
@@ -35,7 +37,8 @@ export class SoundCardComponent implements OnInit {
     return (keyboardMap[this.sound.id])
   }
 
-  public playAudio(audioUrl: string): void {
+  public playAudio(): void {
+    const audioUrl = !this.isExtendedVersion ? this.sound.url : this.sound.extended
     this.audio = new Audio();
     this.audio.src = audioUrl;
     this.audio.load();

@@ -7,6 +7,7 @@ export interface Sound {
   pictureUrl: string;
   url: string;
   extended?: string;
+  new?: boolean;
 }
 
 @Component({

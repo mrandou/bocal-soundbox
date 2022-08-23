@@ -22,7 +22,8 @@
     "title": "Gandalf",
     "pictureUrl": "https://c.tenor.com/rhUTzHTqHVcAAAAC/frodo-crazy.gif",
     "url": "assets/sounds/gandalf.mp3",
-    "extended": "assets/sounds/extended/gandalf-extended.mp3"
+    "extended": "assets/sounds/extended/gandalf-extended.mp3",
+    "new": true
   },
   {
     "id": 4,
@@ -282,7 +283,8 @@
     "id": 46,
     "title": "Etienne",
     "pictureUrl": "https://c.tenor.com/IapUk4SXdLIAAAAM/kocci-tiens.gif",
-    "url": "assets/sounds/etienne.mp3"
+    "url": "assets/sounds/etienne.mp3",
+    "new": true
   },
   {
     "id": 47,
@@ -357,25 +359,29 @@
     "title": "Le Joe, Le david...",
     "pictureUrl": "https://thumbs.gfycat.com/VariableInsistentBedlingtonterrier-max-1mb.gif",
     "url": "assets/sounds/joe-david-hoffman-de-ses-morts.mp3",
-    "extended": "assets/sounds/extended/joe-david-hoffman-de-ses-morts-extended.mp3"
+    "extended": "assets/sounds/extended/joe-david-hoffman-de-ses-morts-extended.mp3",
+    "new": true
   },
   {
     "id": 59,
     "title": "La Calotte de ses morts",
     "pictureUrl": "https://c.tenor.com/qnZkKwO1eLwAAAAM/gitan-djo-david-lopez-calotte-mort-osman-batard.gif",
-    "url": "assets/sounds/calotte-de-ses-morts.mp3"
+    "url": "assets/sounds/calotte-de-ses-morts.mp3",
+    "new": true
   },
   {
     "id": 60,
     "title": "Ta Femme...",
     "pictureUrl": "https://i.makeagif.com/media/5-15-2015/-9JSpj.gif",
     "url": "assets/sounds/ta-femme....mp3",
-    "extended": "assets/sounds/extended/ta-femme...-extended.mp3"
+    "extended": "assets/sounds/extended/ta-femme...-extended.mp3",
+    "new": true
   },
   {
     "id": 61,
     "title": "Viens là toi",
     "pictureUrl": "https://c.tenor.com/F5TeNXOvGKkAAAAC/viens-la-toi.gif",
-    "url": "assets/sounds/viens-la-toi.mp3"
+    "url": "assets/sounds/viens-la-toi.mp3",
+    "new": true
   }
 ]

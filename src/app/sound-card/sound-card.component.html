@@ -1,5 +1,6 @@
 <div class="card" (click)="playAudio()">
   <div class="keyboard-key">{{ getKey() }}</div>
+  <div *ngIf="sound.new" class="new-badge">NEW</div>
   <div class="picture" [ngStyle]="{'background-color': getColor(sound.id)}">
     <img *ngIf="sound.pictureUrl" [src]="sound.pictureUrl"/>
   </div>

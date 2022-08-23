@@ -19,9 +19,10 @@
   },
   {
     "id": 3,
-    "title": "Kaamelott générique",
-    "pictureUrl": "https://risibank.fr/cache/stickers/d1931/193137-full.gif",
-    "url": "assets/sounds/kaamelott.wav"
+    "title": "Gandalf",
+    "pictureUrl": "https://c.tenor.com/rhUTzHTqHVcAAAAC/frodo-crazy.gif",
+    "url": "assets/sounds/gandalf.mp3",
+    "extended": "assets/sounds/extended/gandalf-extended.mp3"
   },
   {
     "id": 4,
@@ -133,9 +134,10 @@
   },
   {
     "id": 22,
-    "title": "Ferme ta gueule",
-    "pictureUrl": "https://thumbs.gfycat.com/EvenOccasionalAmericanwirehair-size_restricted.gif",
-    "url": "assets/sounds/ferme-ta-gueule.mp3"
+    "title": "Ça va péter",
+    "pictureUrl": "https://c.tenor.com/h2BpRrOyw6gAAAAd/p%C3%A9ter-peter.gif",
+    "url": "assets/sounds/ca-va-peter-2.mp3",
+    "extended": "assets/sounds/extended/ca-va-peter-2-extended.mp3"
   },
   {
     "id": 23,
@@ -273,13 +275,14 @@
     "id": 45,
     "title": "Groudou",
     "pictureUrl": "https://media.giphy.com/media/LL59epKz5SWcyxmdiF/giphy.gif",
-    "url": "assets/sounds/groudou.mp3"
+    "url": "assets/sounds/groudou.mp3",
+    "extended": "assets/sounds/groudouuuuuuuuuu.mp3"
   },
   {
     "id": 46,
-    "title": "Groudouuuuuuuuu!",
-    "pictureUrl": "https://media.giphy.com/media/ElFr0OPDAA60VIaJYN/giphy.gif",
-    "url": "assets/sounds/groudouuuuuuuuuu.mp3"
+    "title": "Etienne",
+    "pictureUrl": "https://c.tenor.com/IapUk4SXdLIAAAAM/kocci-tiens.gif",
+    "url": "assets/sounds/etienne.mp3"
   },
   {
     "id": 47,
@@ -339,13 +342,40 @@
     "id": 56,
     "title": "Stéphane",
     "pictureUrl": "https://c.tenor.com/zvBu-3Fsx3MAAAAM/stephan-stephan-you-lie.gif",
-    "url": "assets/sounds/stephane.mp3"
+    "url": "assets/sounds/stephane.mp3",
+    "extended": "assets/sounds/extended/stephane-extended.mp3"
   },
   {
     "id": 57,
-    "title": "Ça va péter",
-    "pictureUrl": "https://c.tenor.com/h2BpRrOyw6gAAAAd/p%C3%A9ter-peter.gif",
-    "url": "assets/sounds/ca-va-peter-2.mp3",
-    "extended": "assets/sounds/extended/ca-va-peter-2-extended.mp3"
+    "title": "Ferme ta gueule",
+    "pictureUrl": "https://thumbs.gfycat.com/EvenOccasionalAmericanwirehair-size_restricted.gif",
+    "url": "assets/sounds/ferme-ta-gueule.mp3",
+    "extended": "assets/sounds/extended/ferme-ta-gueule-extended.mp3"
+  },
+  {
+    "id": 58,
+    "title": "Le Joe, Le david...",
+    "pictureUrl": "https://thumbs.gfycat.com/VariableInsistentBedlingtonterrier-max-1mb.gif",
+    "url": "assets/sounds/joe-david-hoffman-de-ses-morts.mp3",
+    "extended": "assets/sounds/extended/joe-david-hoffman-de-ses-morts-extended.mp3"
+  },
+  {
+    "id": 59,
+    "title": "La Calotte de ses morts",
+    "pictureUrl": "https://c.tenor.com/qnZkKwO1eLwAAAAM/gitan-djo-david-lopez-calotte-mort-osman-batard.gif",
+    "url": "assets/sounds/calotte-de-ses-morts.mp3"
+  },
+  {
+    "id": 60,
+    "title": "Ta Femme...",
+    "pictureUrl": "https://i.makeagif.com/media/5-15-2015/-9JSpj.gif",
+    "url": "assets/sounds/ta-femme....mp3",
+    "extended": "assets/sounds/extended/ta-femme...-extended.mp3"
+  },
+  {
+    "id": 61,
+    "title": "Viens là toi",
+    "pictureUrl": "https://c.tenor.com/F5TeNXOvGKkAAAAC/viens-la-toi.gif",
+    "url": "assets/sounds/viens-la-toi.mp3"
   }
 ]

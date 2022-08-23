@@ -48,7 +48,7 @@ export class AppComponent {
 
   @HostListener('window:keyup', ['$event'])
   keyEvent(event: KeyboardEvent) {
-    for (let i = 0; i <= 54; i++) {
+    for (let i = 0; i <= 61; i++) {
       if (event.key == keyboardMap[i]) {
         const sound = this.getSoundById(i);
         this.playSound(sound.url);

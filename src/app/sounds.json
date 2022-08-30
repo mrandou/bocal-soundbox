@@ -314,7 +314,9 @@
     "id": 51,
     "title": "Tu es un porc Francis",
     "pictureUrl": "https://c.tenor.com/2DzqWS4sPxEAAAAM/francis-francois-lambrouille.gif",
-    "url": "assets/sounds/tu-es-un-porc-francis.mp3"
+    "url": "assets/sounds/tu-es-un-porc-francis.mp3",
+    "extended": "assets/sounds/extended/tu-es-un-porc-francis-extended.mp3",
+    "new": true
   },
   {
     "id": 52,
@@ -382,6 +384,14 @@
     "title": "Viens là toi",
     "pictureUrl": "https://c.tenor.com/F5TeNXOvGKkAAAAC/viens-la-toi.gif",
     "url": "assets/sounds/viens-la-toi.mp3",
+    "new": true
+  },
+  {
+    "id": 62,
+    "title": "Crazy Frog",
+    "pictureUrl": "https://c.tenor.com/KsE4YxgXzqcAAAAC/hungarian-top-gamers2019hungary.gif",
+    "url": "assets/sounds/crazy-frog.mp3",
+    "extended": "assets/sounds/extended/crazy-frog-extended.mp3",
     "new": true
   }
 ]

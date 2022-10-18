@@ -285,8 +285,7 @@
     "id": 46,
     "title": "Etienne",
     "pictureUrl": "https://c.tenor.com/IapUk4SXdLIAAAAM/kocci-tiens.gif",
-    "url": "assets/sounds/etienne.mp3",
-    "new": true
+    "url": "assets/sounds/etienne.mp3"
   },
   {
     "id": 47,
@@ -317,8 +316,7 @@
     "title": "Tu es un porc Francis",
     "pictureUrl": "https://c.tenor.com/2DzqWS4sPxEAAAAM/francis-francois-lambrouille.gif",
     "url": "assets/sounds/tu-es-un-porc-francis.mp3",
-    "extended": "assets/sounds/extended/tu-es-un-porc-francis-extended.mp3",
-    "new": true
+    "extended": "assets/sounds/extended/tu-es-un-porc-francis-extended.mp3"
   },
   {
     "id": 52,
@@ -363,15 +361,13 @@
     "title": "Le Joe, Le david...",
     "pictureUrl": "https://thumbs.gfycat.com/VariableInsistentBedlingtonterrier-max-1mb.gif",
     "url": "assets/sounds/joe-david-hoffman-de-ses-morts.mp3",
-    "extended": "assets/sounds/extended/joe-david-hoffman-de-ses-morts-extended.mp3",
-    "new": true
+    "extended": "assets/sounds/extended/joe-david-hoffman-de-ses-morts-extended.mp3"
   },
   {
     "id": 59,
     "title": "La Calotte de ses morts",
     "pictureUrl": "https://c.tenor.com/qnZkKwO1eLwAAAAM/gitan-djo-david-lopez-calotte-mort-osman-batard.gif",
-    "url": "assets/sounds/calotte-de-ses-morts.mp3",
-    "new": true
+    "url": "assets/sounds/calotte-de-ses-morts.mp3"
   },
   {
     "id": 60,
@@ -379,22 +375,40 @@
     "pictureUrl": "https://i.makeagif.com/media/5-15-2015/-9JSpj.gif",
     "url": "assets/sounds/ta-femme....mp3",
     "extended": "assets/sounds/extended/ta-femme...-extended.mp3",
-    "new": true,
     "nsfw": true
   },
   {
     "id": 61,
     "title": "Viens là toi",
     "pictureUrl": "https://c.tenor.com/F5TeNXOvGKkAAAAC/viens-la-toi.gif",
-    "url": "assets/sounds/viens-la-toi.mp3",
-    "new": true
+    "url": "assets/sounds/viens-la-toi.mp3"
   },
   {
     "id": 62,
     "title": "Crazy Frog",
     "pictureUrl": "https://c.tenor.com/KsE4YxgXzqcAAAAC/hungarian-top-gamers2019hungary.gif",
     "url": "assets/sounds/crazy-frog.mp3",
-    "extended": "assets/sounds/extended/crazy-frog-extended.mp3",
+    "extended": "assets/sounds/extended/crazy-frog-extended.mp3"
+  },
+  {
+    "id": 63,
+    "title": "Non",
+    "pictureUrl": "https://thumbs.gfycat.com/CanineSpecificBustard-size_restricted.gif",
+    "url": "assets/sounds/non.mp3",
+    "new": true
+  },
+  {
+    "id": 64,
+    "title": "C'est de la merde",
+    "pictureUrl": "https://media.tenor.com/hF4qFqtJpa4AAAAM/merde-kaamelott.gif",
+    "url": "assets/sounds/c-est-de-la-merde.mp3",
+    "new": true
+  },
+  {
+    "id": 65,
+    "title": "Tu sors ou je te sors ?",
+    "pictureUrl": "https://thumbs.gfycat.com/NauticalTeemingCuscus-max-1mb.gif",
+    "url": "assets/sounds/tu-sors-ou-je-te-sors.mp3",
     "new": true
   }
 ]

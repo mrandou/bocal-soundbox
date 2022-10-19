@@ -22,8 +22,7 @@
     "title": "Gandalf",
     "pictureUrl": "https://c.tenor.com/rhUTzHTqHVcAAAAC/frodo-crazy.gif",
     "url": "assets/sounds/gandalf.mp3",
-    "extended": "assets/sounds/extended/gandalf-extended.mp3",
-    "new": true
+    "extended": "assets/sounds/extended/gandalf-extended.mp3"
   },
   {
     "id": 4,
@@ -409,6 +408,22 @@
     "title": "Tu sors ou je te sors ?",
     "pictureUrl": "https://thumbs.gfycat.com/NauticalTeemingCuscus-max-1mb.gif",
     "url": "assets/sounds/tu-sors-ou-je-te-sors.mp3",
+    "new": true
+  },
+  {
+    "id": 66,
+    "title": "C'est moi",
+    "pictureUrl": "https://thumbs.gfycat.com/AggressiveInferiorCat-max-1mb.gif",
+    "url": "assets/sounds/c-est-moi.mp3",
+    "extended": "assets/sounds/extended/c-est-moi-extended.mp3",
+    "new": true
+  },
+  {
+    "id": 67,
+    "title": "Je suis un monsieur",
+    "pictureUrl": "https://c.tenor.com/KiNtQsCt0iwAAAAd/rugby-presentez.gif",
+    "url": "assets/sounds/je-suis-un-monsieur.mp3",
+    "extended": "assets/sounds/extended/je-suis-un-monsieur-extended.mp3",
     "new": true
   }
 ]

@@ -3,7 +3,8 @@
     "id": 0,
     "title": "Arrête!",
     "pictureUrl": "https://i.makeagif.com/media/8-27-2019/JNA4fB.gif",
-    "url": "assets/sounds/arrete.mp3"
+    "url": "assets/sounds/arrete.mp3",
+    "extended": "assets/sounds/extended/arrete-extended.mp3"
   },
   {
     "id": 1,
@@ -424,6 +425,14 @@
     "pictureUrl": "https://c.tenor.com/KiNtQsCt0iwAAAAd/rugby-presentez.gif",
     "url": "assets/sounds/je-suis-un-monsieur.mp3",
     "extended": "assets/sounds/extended/je-suis-un-monsieur-extended.mp3",
+    "new": true
+  },
+  {
+    "id": 68,
+    "title": "Bebe Cadum",
+    "pictureUrl": "https://c.tenor.com/I3NUpEbIv2cAAAAd/b%C3%A9b%C3%A9cadum-bebe.gif",
+    "url": "assets/sounds/bebe-cadum.mp3",
+    "extended": "assets/sounds/extended/bebe-cadum-extended.mp3",
     "new": true
   }
 ]

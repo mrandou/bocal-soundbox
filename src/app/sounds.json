@@ -451,5 +451,13 @@
     "url": "assets/sounds/new-gitan.mp3",
     "extended": "assets/sounds/extended/new-gitan-extended.mp3",
     "new": true
+  },
+  {
+    "id": 72,
+    "title": "Macron explosion",
+    "pictureUrl": "https://media.tenor.com/gXiP4krCzT8AAAAC/macron-explosion-gilet-jaune-macron.gif",
+    "url": "assets/sounds/macron-explosion.mp3",
+    "extended": "assets/sounds/extended/macron-explosion-extended.mp3",
+    "new": true
   }
 ]

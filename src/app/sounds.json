@@ -433,31 +433,34 @@
     "id": 69,
     "title": "Mamie anarchiste",
     "pictureUrl": "https://1.bp.blogspot.com/-q5_6VPfzbeE/V8dS5kMZWvI/AAAAAAABX94/XEseXLxY9QYuy37f45X_MLkIPDVPLfB6QCLcB/s640/tumblr_oca1qqjGfB1rymr5wo1_500.gif",
-    "url": "assets/sounds/mamie-anarchiste.mp3",
-    "new": true
+    "url": "assets/sounds/mamie-anarchiste.mp3"
   },
   {
     "id": 70,
     "title": "Chanson du poireau",
     "pictureUrl": "https://i.kym-cdn.com/photos/images/newsfeed/000/328/161/576.gif",
     "url": "assets/sounds/poireau-song.mp3",
-    "extended": "assets/sounds/extended/poireau-song-extended.mp3",
-    "new": true
+    "extended": "assets/sounds/extended/poireau-song-extended.mp3"
   },
   {
     "id": 71,
     "title": "Le nouveau gitan",
     "pictureUrl": "https://media.giphy.com/media/3LxnyOOwHseDv7LuJm/giphy-downsized-large.gif",
     "url": "assets/sounds/new-gitan.mp3",
-    "extended": "assets/sounds/extended/new-gitan-extended.mp3",
-    "new": true
+    "extended": "assets/sounds/extended/new-gitan-extended.mp3"
   },
   {
     "id": 72,
     "title": "Macron explosion",
     "pictureUrl": "https://media.tenor.com/gXiP4krCzT8AAAAC/macron-explosion-gilet-jaune-macron.gif",
     "url": "assets/sounds/macron-explosion.mp3",
-    "extended": "assets/sounds/extended/macron-explosion-extended.mp3",
+    "extended": "assets/sounds/extended/macron-explosion-extended.mp3"
+  },
+  {
+    "id": 73,
+    "title": "J'aime bien",
+    "pictureUrl": "https://media.tenor.com/C4n2mB21UboAAAAd/ritchie-voila.gif",
+    "url": "assets/sounds/jaime-bien.mp3",
     "new": true
   }
 ]

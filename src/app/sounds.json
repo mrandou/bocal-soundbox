@@ -462,5 +462,34 @@
     "pictureUrl": "https://media.tenor.com/C4n2mB21UboAAAAd/ritchie-voila.gif",
     "url": "assets/sounds/jaime-bien.mp3",
     "new": true
+  },
+  {
+    "id": 74,
+    "title": "Chevre qui crie",
+    "pictureUrl": "https://media.tenor.com/YtWSJukoUk8AAAAM/huyazyuza-goat.gif",
+    "url": "assets/sounds/chevre.mp3",
+    "new": true
+  },
+  {
+    "id": 75,
+    "title": "Marmotte qui crie",
+    "pictureUrl": "https://media2.giphy.com/media/ROcSJHrOhhBkc/giphy.gif",
+    "url": "assets/sounds/marmotte.mp3",
+    "extended": "assets/sounds/extended/marmotte-extended.mp3",
+    "new": true
+  },
+  {
+    "id": 76,
+    "title": "T'es un champion toi",
+    "pictureUrl": "https://media.giphy.com/media/SknP6uxiM8qSjIg91y/giphy.gif",
+    "url": "assets/sounds/champion.mp3",
+    "new": true
+  },
+  {
+    "id": 77,
+    "title": "Ça pousse",
+    "pictureUrl": "https://media.tenor.com/3hSPNOOkIksAAAAM/etienne-bolidage.gif",
+    "url": "assets/sounds/ca-pousse.mp3",
+    "new": true
   }
 ]

@@ -272,102 +272,118 @@
     "id": 44,
     "title": "Thats what she said.",
     "pictureUrl": "https://media0.giphy.com/media/IjJ8FVe4HVk66yvlV2/giphy.gif",
-    "url": "assets/sounds/thats-what-she-said.mp3"
+    "url": "assets/sounds/thats-what-she-said.mp3",
+    "tags": ["Homme", "The Office"]
   },
   {
     "id": 45,
     "title": "Groudou",
     "pictureUrl": "https://media.giphy.com/media/LL59epKz5SWcyxmdiF/giphy.gif",
     "url": "assets/sounds/groudou.mp3",
-    "extended": "assets/sounds/groudouuuuuuuuuu.mp3"
+    "extended": "assets/sounds/groudouuuuuuuuuu.mp3",
+    "tags": ["Créature", "Cris"]
   },
   {
     "id": 46,
     "title": "Etienne",
     "pictureUrl": "https://c.tenor.com/IapUk4SXdLIAAAAM/kocci-tiens.gif",
-    "url": "assets/sounds/etienne.mp3"
+    "url": "assets/sounds/etienne.mp3",
+    "tags": ["Etienne", "Musique", "Étrange"]
   },
   {
     "id": 47,
     "title": "That the sound of da Police",
     "pictureUrl": "https://media0.giphy.com/media/x0GeFXErpcRk4/giphy.gif",
-    "url": "assets/sounds/that-the-sound-of-da-police.mp3"
+    "url": "assets/sounds/that-the-sound-of-da-police.mp3",
+    "tags": ["Sirène", "Police"]
   },
   {
     "id": 48,
     "title": "Siren",
     "pictureUrl": "https://i.gifer.com/Gdwu.gif",
-    "url": "assets/sounds/siren.mp3"
+    "url": "assets/sounds/siren.mp3",
+    "tags": ["Sirène", "Alarme", "Alerte"]
   },
   {
     "id": 49,
     "title": "To Be Continued",
     "pictureUrl": "https://thumbs.gfycat.com/SneakyEquatorialAmurratsnake-max-1mb.gif",
-    "url": "assets/sounds/to-be-continued.mp3"
+    "url": "assets/sounds/to-be-continued.mp3",
+    "tags": ["Suspense", "Musique"]
   },
   {
     "id": 50,
     "title": "Ca va être tout noir",
     "pictureUrl": "https://p3.storage.canalblog.com/37/31/1204697/127770107.gif",
-    "url": "assets/sounds/ca-va-etre-tout-noir.mp3"
+    "url": "assets/sounds/ca-va-etre-tout-noir.mp3",
+    "tags": ["Homme", "Femme", "Cris", "Vulgaire", "RRRrrrr"]
   },
   {
     "id": 51,
     "title": "Tu es un porc Francis",
     "pictureUrl": "https://c.tenor.com/2DzqWS4sPxEAAAAM/francis-francois-lambrouille.gif",
     "url": "assets/sounds/tu-es-un-porc-francis.mp3",
-    "extended": "assets/sounds/extended/tu-es-un-porc-francis-extended.mp3"
+    "extended": "assets/sounds/extended/tu-es-un-porc-francis-extended.mp3",
+    "tags": ["Homme", "Cris", "Énervé", "François", "L'embrouille"]
   },
   {
     "id": 52,
     "title": "Mais t’es pas net Baptiste !",
     "pictureUrl": "https://c.tenor.com/94fD8ViI5s4AAAAC/baptiste-feu.gif",
-    "url": "assets/sounds/baptiste.mp3"
+    "url": "assets/sounds/baptiste.mp3",
+    "tags": ["Femme", "Homme", "Cris", "Énervé", "Étrange"]
   },
   {
     "id": 53,
     "title": "Bravo Nils !",
     "pictureUrl": "https://c.tenor.com/DB6tPYmCewoAAAAC/nils.gif",
-    "url": "assets/sounds/bravo-nils.mp3"
+    "url": "assets/sounds/bravo-nils.mp3",
+    "tags": ["Femme", "Cris", "Énervé"]
   },
   {
     "id": 54,
     "title": "Je vais t'étrangler",
     "pictureUrl": "https://thumbs.gfycat.com/PlainWickedGoat-size_restricted.gif",
-    "url": "assets/sounds/je-vais-t-etrangler.mp3"
+    "url": "assets/sounds/je-vais-t-etrangler.mp3",
+    "tags": ["Enfant", "Étrange", "Humiliation", "Flippant"]
   },
   {
     "id": 55,
     "title": "Quelle indignité",
     "pictureUrl": "https://c.tenor.com/3wv4a0Qco7kAAAAC/sarkozy-indignit%C3%A9.gif",
-    "url": "assets/sounds/quelle-indignite.mp3"
+    "url": "assets/sounds/quelle-indignite.mp3",
+    "tags": ["Sarkozy", "Homme", "Indignité", "Humiliation", "Saturé"]
   },
   {
     "id": 56,
     "title": "Stéphane",
     "pictureUrl": "https://c.tenor.com/zvBu-3Fsx3MAAAAM/stephan-stephan-you-lie.gif",
     "url": "assets/sounds/stephane.mp3",
-    "extended": "assets/sounds/extended/stephane-extended.mp3"
+    "extended": "assets/sounds/extended/stephane-extended.mp3",
+    "tags": ["Triste", "Cris", "Homme", "Femme"]
   },
   {
     "id": 57,
     "title": "Ferme ta gueule",
     "pictureUrl": "https://thumbs.gfycat.com/EvenOccasionalAmericanwirehair-size_restricted.gif",
     "url": "assets/sounds/ferme-ta-gueule.mp3",
-    "extended": "assets/sounds/extended/ferme-ta-gueule-extended.mp3"
+    "extended": "assets/sounds/extended/ferme-ta-gueule-extended.mp3",
+    "tags": ["Gitan", "Énervé", "Cris", "Vulgaire"]
   },
   {
     "id": 58,
     "title": "Le Joe, Le david...",
     "pictureUrl": "https://thumbs.gfycat.com/VariableInsistentBedlingtonterrier-max-1mb.gif",
     "url": "assets/sounds/joe-david-hoffman-de-ses-morts.mp3",
-    "extended": "assets/sounds/extended/joe-david-hoffman-de-ses-morts-extended.mp3"
+    "extended": "assets/sounds/extended/joe-david-hoffman-de-ses-morts-extended.mp3",
+    "tags": ["Gitan", "Énervé", "Cris", "Homme"]
   },
   {
     "id": 59,
     "title": "La Calotte de ses morts",
     "pictureUrl": "https://c.tenor.com/qnZkKwO1eLwAAAAM/gitan-djo-david-lopez-calotte-mort-osman-batard.gif",
-    "url": "assets/sounds/calotte-de-ses-morts.mp3"
+    "url": "assets/sounds/calotte-de-ses-morts.mp3",
+    "tags": ["Gitan", "Énervé", "Cris", "Homme"]
   },
   {
     "id": 60,
@@ -375,64 +391,74 @@
     "pictureUrl": "https://i.makeagif.com/media/5-15-2015/-9JSpj.gif",
     "url": "assets/sounds/ta-femme....mp3",
     "extended": "assets/sounds/extended/ta-femme...-extended.mp3",
+    "tags": ["Gitan", "Énervé", "Cris", "Vulgaire", "Homme"],
     "nsfw": true
   },
   {
     "id": 61,
     "title": "Viens là toi",
     "pictureUrl": "https://c.tenor.com/F5TeNXOvGKkAAAAC/viens-la-toi.gif",
-    "url": "assets/sounds/viens-la-toi.mp3"
+    "url": "assets/sounds/viens-la-toi.mp3",
+    "tags": ["Gitan", "Énervé", "Cris", "Homme"]
   },
   {
     "id": 62,
     "title": "Crazy Frog",
     "pictureUrl": "https://c.tenor.com/KsE4YxgXzqcAAAAC/hungarian-top-gamers2019hungary.gif",
     "url": "assets/sounds/crazy-frog.mp3",
-    "extended": "assets/sounds/extended/crazy-frog-extended.mp3"
+    "extended": "assets/sounds/extended/crazy-frog-extended.mp3",
+    "tags": ["Enfants", "Crazy", "Frog", "Danse", "Musique"]
   },
   {
     "id": 63,
     "title": "Non",
     "pictureUrl": "https://thumbs.gfycat.com/CanineSpecificBustard-size_restricted.gif",
-    "url": "assets/sounds/non.mp3"
+    "url": "assets/sounds/non.mp3",
+    "tags": ["Mario", "Non", "Humiliation"]
   },
   {
     "id": 64,
     "title": "C'est de la merde",
     "pictureUrl": "https://media.tenor.com/hF4qFqtJpa4AAAAM/merde-kaamelott.gif",
-    "url": "assets/sounds/c-est-de-la-merde.mp3"
+    "url": "assets/sounds/c-est-de-la-merde.mp3",
+    "tags": ["Merde", "Kaamelott", "Karadoc", "Homme", "Humiliation"]
   },
   {
     "id": 65,
     "title": "Tu sors ou je te sors ?",
     "pictureUrl": "https://thumbs.gfycat.com/NauticalTeemingCuscus-max-1mb.gif",
-    "url": "assets/sounds/tu-sors-ou-je-te-sors.mp3"
+    "url": "assets/sounds/tu-sors-ou-je-te-sors.mp3",
+    "tags": ["François", "L'embrouille", "Sors", "Homme", "Téléphone"]
   },
   {
     "id": 66,
     "title": "C'est moi",
     "pictureUrl": "https://thumbs.gfycat.com/AggressiveInferiorCat-max-1mb.gif",
     "url": "assets/sounds/c-est-moi.mp3",
-    "extended": "assets/sounds/extended/c-est-moi-extended.mp3"
+    "extended": "assets/sounds/extended/c-est-moi-extended.mp3",
+    "tags": ["C'est moi", "Homme", "Ridicule"]
   },
   {
     "id": 67,
     "title": "Je suis un monsieur",
     "pictureUrl": "https://c.tenor.com/KiNtQsCt0iwAAAAd/rugby-presentez.gif",
     "url": "assets/sounds/je-suis-un-monsieur.mp3",
-    "extended": "assets/sounds/extended/je-suis-un-monsieur-extended.mp3"
+    "extended": "assets/sounds/extended/je-suis-un-monsieur-extended.mp3",
+    "tags": ["Monsieur", "C'est moi", "Cris", "Homme", "Entraineur"]
   },
   {
     "id": 68,
-    "title": "Bebe Cadum",
+    "title": "Bébé Cadum",
     "pictureUrl": "https://c.tenor.com/I3NUpEbIv2cAAAAd/b%C3%A9b%C3%A9cadum-bebe.gif",
     "url": "assets/sounds/bebe-cadum.mp3",
-    "extended": "assets/sounds/extended/bebe-cadum-extended.mp3"
+    "extended": "assets/sounds/extended/bebe-cadum-extended.mp3",
+    "tags": ["Bébé", "Cadum", "Hurlement", "Enfant", "Énervé"]
   },
   {
     "id": 69,
     "title": "Mamie anarchiste",
     "pictureUrl": "https://1.bp.blogspot.com/-q5_6VPfzbeE/V8dS5kMZWvI/AAAAAAABX94/XEseXLxY9QYuy37f45X_MLkIPDVPLfB6QCLcB/s640/tumblr_oca1qqjGfB1rymr5wo1_500.gif",
+    "tags": ["Anarchiste", "Mamie", "Femme"],
     "url": "assets/sounds/mamie-anarchiste.mp3"
   },
   {
@@ -440,6 +466,7 @@
     "title": "Chanson du poireau",
     "pictureUrl": "https://i.kym-cdn.com/photos/images/newsfeed/000/328/161/576.gif",
     "url": "assets/sounds/poireau-song.mp3",
+    "tags": ["Chanson", "Poireau", "Musique", "Danse", "Femme"],
     "extended": "assets/sounds/extended/poireau-song-extended.mp3"
   },
   {
@@ -447,6 +474,7 @@
     "title": "Le nouveau gitan",
     "pictureUrl": "https://media.giphy.com/media/3LxnyOOwHseDv7LuJm/giphy-downsized-large.gif",
     "url": "assets/sounds/new-gitan.mp3",
+    "tags": ["Cris", "Gitan", "Homme", "Copain", "Énervé"],
     "extended": "assets/sounds/extended/new-gitan-extended.mp3"
   },
   {
@@ -454,6 +482,7 @@
     "title": "Macron explosion",
     "pictureUrl": "https://media.tenor.com/gXiP4krCzT8AAAAC/macron-explosion-gilet-jaune-macron.gif",
     "url": "assets/sounds/macron-explosion.mp3",
+    "tags": ["Macron", "Manifestation", "Hurlement", "Femme", "Énervé", "Explosion", "Gilet Jaune"],
     "extended": "assets/sounds/extended/macron-explosion-extended.mp3"
   },
   {
@@ -461,6 +490,7 @@
     "title": "J'aime bien",
     "pictureUrl": "https://media.tenor.com/C4n2mB21UboAAAAd/ritchie-voila.gif",
     "url": "assets/sounds/jaime-bien.mp3",
+    "tags": ["Homme", "Content"],
     "new": true
   },
   {
@@ -468,6 +498,7 @@
     "title": "Chevre qui crie",
     "pictureUrl": "https://media.tenor.com/YtWSJukoUk8AAAAM/huyazyuza-goat.gif",
     "url": "assets/sounds/chevre.mp3",
+    "tags": ["Cris", "Animaux", "Hurlement", "Chèvre", "Énervé"],
     "new": true
   },
   {
@@ -476,6 +507,7 @@
     "pictureUrl": "https://media2.giphy.com/media/ROcSJHrOhhBkc/giphy.gif",
     "url": "assets/sounds/marmotte.mp3",
     "extended": "assets/sounds/extended/marmotte-extended.mp3",
+    "tags": ["Cris", "Animaux", "Hurlement", "Marmotte", "Énervé"],
     "new": true
   },
   {
@@ -483,6 +515,7 @@
     "title": "T'es un champion toi",
     "pictureUrl": "https://media.giphy.com/media/SknP6uxiM8qSjIg91y/giphy.gif",
     "url": "assets/sounds/champion.mp3",
+    "tags": ["Champion", "Enfants", "Humiliation"],
     "new": true
   },
   {
@@ -490,6 +523,16 @@
     "title": "Ça pousse",
     "pictureUrl": "https://media.tenor.com/3hSPNOOkIksAAAAM/etienne-bolidage.gif",
     "url": "assets/sounds/ca-pousse.mp3",
+    "tags": ["Etienne", "Bolideur", "Bolidage", "Voiture", "Tuning", "Homme"],
+    "new": true
+  },
+  {
+    "id": 78,
+    "title": "Attention grenade",
+    "pictureUrl": "https://media.tenor.com/4X2om0JPIn4AAAAd/frederic-delavier.gif",
+    "url": "assets/sounds/attention-grenade.mp3",
+    "extended": "assets/sounds/extended/attention-grenade-extended.mp3",
+    "tags": ["Grenade", "Attention", "Jeunes", "Manifestation", "Homme"],
     "new": true
   }
 ]

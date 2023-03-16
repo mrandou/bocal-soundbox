@@ -9,6 +9,7 @@ export interface Sound {
   extended?: string;
   new?: boolean;
   nsfw?: boolean;
+  tags?: string[];
 }
 
 @Component({

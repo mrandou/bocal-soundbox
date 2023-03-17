@@ -4,276 +4,320 @@
     "title": "Arrête!",
     "pictureUrl": "https://i.makeagif.com/media/8-27-2019/JNA4fB.gif",
     "url": "assets/sounds/arrete.mp3",
-    "extended": "assets/sounds/extended/arrete-extended.mp3"
+    "extended": "assets/sounds/extended/arrete-extended.mp3",
+    "tags": ["Chat", "Animaux", "Arrête"]
   },
   {
     "id": 1,
     "title": "Arreuh!",
     "pictureUrl": "https://media.giphy.com/media/Xez1SGy4aLDK3O5UZD/giphy.gif",
-    "url": "assets/sounds/arrete2.mp3"
+    "url": "assets/sounds/arrete2.mp3",
+    "tags": ["Chat", "Animaux", "Arrête"]
   },
   {
     "id": 2,
     "title": "Chicken Attack",
     "pictureUrl": "https://media.tenor.com/images/80a50ce98642b637f15791690af7bce4/tenor.gif",
-    "url": "assets/sounds/chicken-attack.mp3"
+    "url": "assets/sounds/chicken-attack.mp3",
+    "tags": ["Homme", "Musique", "Poulet"]
   },
   {
     "id": 3,
     "title": "Gandalf",
     "pictureUrl": "https://c.tenor.com/rhUTzHTqHVcAAAAC/frodo-crazy.gif",
     "url": "assets/sounds/gandalf.mp3",
-    "extended": "assets/sounds/extended/gandalf-extended.mp3"
+    "extended": "assets/sounds/extended/gandalf-extended.mp3",
+    "tags": ["Gênant", "Seigneur des Anneaux", "Frodon", "Gandalf"]
   },
   {
     "id": 4,
     "title": "Karma Song",
     "pictureUrl": "https://media.toucharger.com/web/toucharger/upload/image_domain/7/6/76563/76563.gif",
-    "url": "assets/sounds/karma-song.mp3"
+    "url": "assets/sounds/karma-song.mp3",
+    "tags": ["Homme", "Musique", "Cercueil", "Karma"]
   },
   {
     "id": 5,
     "title": "Tunak Tunak",
     "pictureUrl": "https://thumbs.gfycat.com/BogusEthicalDonkey-size_restricted.gif",
-    "url": "assets/sounds/tunak.mp3"
+    "url": "assets/sounds/tunak.mp3",
+    "tags": ["Homme", "Musique", "Indien"]
   },
   {
     "id": 6,
     "title": "John Cena",
     "pictureUrl": "https://thumbs.gfycat.com/GrippingFrequentAmericanbulldog-max-1mb.gif",
-    "url": "assets/sounds/john-cena.mp3"
+    "url": "assets/sounds/john-cena.mp3",
+    "tags": ["Catch", "Sport", "Musique", "Epic"]
   },
   {
     "id": 7,
     "title": "Gollum",
     "pictureUrl": "https://media.giphy.com/media/cgC6Mx1aJtBBe/giphy.gif",
-    "url": "assets/sounds/gollum.mp3"
+    "url": "assets/sounds/gollum.mp3",
+    "tags": ["Étrange", "Seigneur des Anneaux", "Gollum"]
   },
   {
     "id": 8,
     "title": "When Mama Isn't Home ",
     "pictureUrl": "https://thumbs.gfycat.com/AptAnimatedCatbird-max-1mb.gif",
-    "url": "assets/sounds/when-mama-isnt-home.mp3"
+    "url": "assets/sounds/when-mama-isnt-home.mp3",
+    "tags": ["Musique", "Célébration"]
   },
   {
     "id": 9,
     "title": "Celebrate",
     "pictureUrl": "https://media.tenor.com/images/99cff34bdcb675975b2b0cc661f2e4ce/tenor.gif",
-    "url": "assets/sounds/celebrate.mp3"
+    "url": "assets/sounds/celebrate.mp3",
+    "tags": ["Musique", "Célébration"]
   },
   {
     "id": 10,
     "title": "Ça va péter",
     "pictureUrl": "https://media3.giphy.com/media/9PkfGzhKwBDHPTnDSj/200.gif",
-    "url": "assets/sounds/ca-va-péter.mp3"
+    "url": "assets/sounds/ca-va-péter.mp3",
+    "tags": ["Grenade", "Counter Strike", "Péter"]
   },
   {
     "id": 11,
     "title": "Baboulinet",
     "pictureUrl": "https://i.pinimg.com/originals/f9/b7/ad/f9b7ad63c38c049591ff32e0fb637bc9.gif",
-    "url": "assets/sounds/baboulinet.mp3"
+    "url": "assets/sounds/baboulinet.mp3",
+    "tags": ["Homme", "Mozinor"]
   },
   {
     "id": 12,
     "title": "Mais oui c'est clair",
     "pictureUrl": "https://thumbs.gfycat.com/DeficientGreenHound-size_restricted.gif",
-    "url": "assets/sounds/mais-oui-cest-clair.mp3"
+    "url": "assets/sounds/mais-oui-cest-clair.mp3",
+    "tags": ["Homme"]
   },
   {
     "id": 13,
     "title": "A toi de jouer",
     "pictureUrl": "https://media.tenor.com/images/eff53cc84c6c9bb68782e5cce73e967a/tenor.gif",
-    "url": "assets/sounds/a-toi-de-jouer.mp3"
+    "url": "assets/sounds/a-toi-de-jouer.mp3",
+    "tags": ["Homme", "Yu-Gi-Oh"]
   },
   {
     "id": 14,
     "title": "Hello Darkness",
     "pictureUrl": "https://media0.giphy.com/media/3o7WTqo27pLRYxRtg4/giphy.gif",
-    "url": "assets/sounds/hello-darkness.mp3"
+    "url": "assets/sounds/hello-darkness.mp3",
+    "tags": ["Musique", "Triste"]
   },
   {
     "id": 15,
     "title": "Randoudou",
     "pictureUrl": "https://media.tenor.com/images/a262287497ea296afb7cbb0dd4e50dbe/tenor.gif",
-    "url": "assets/sounds/randoudou.mp3"
+    "url": "assets/sounds/randoudou.mp3",
+    "tags": ["Rondoudou", "Pokemon", "Musique"]
   },
   {
     "id": 16,
     "title": "C'est l'heure du duel",
     "pictureUrl": "https://thumbs.gfycat.com/MeatyZigzagBeaver-size_restricted.gif",
-    "url": "assets/sounds/heure-duel.mp3"
+    "url": "assets/sounds/heure-duel.mp3",
+    "tags": ["Homme", "Yu-Gi-Oh", "Duel"]
   },
   {
     "id": 17,
     "title": "Pouet Pouet",
     "pictureUrl": "https://thumbs.gfycat.com/PastelBraveDikkops-size_restricted.gif",
-    "url": "assets/sounds/pouet-pouet.mp3"
+    "url": "assets/sounds/pouet-pouet.mp3",
+    "tags": ["Homme", "Mozinor"]
   },
   {
     "id": 18,
     "title": "Nope",
     "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEcSojPWsAiNBcZDOOzFg9bK__JvkUMIKmZRJXax3iX8jKS140WAKsRbCvH2QWsbidHFI&usqp=CAU",
-    "url": "assets/sounds/nope.mp3"
+    "url": "assets/sounds/nope.mp3",
+    "tags": ["Homme", "Humiliation"]
   },
   {
     "id": 19,
     "title": "Alert!",
     "pictureUrl": "https://i.pinimg.com/originals/e8/cf/f7/e8cff72cb6e31cdca7930531bc480885.gif",
-    "url": "assets/sounds/alert!.mp3"
+    "url": "assets/sounds/alert!.mp3",
+    "tags": ["Alarme", "Alerte", "Surprise"]
   },
   {
     "id": 20,
     "title": "Pickle Rick",
     "pictureUrl": "https://media3.giphy.com/media/JmPenP1svctdfDCEHi/giphy.gif",
-    "url": "assets/sounds/pickle-rick.mp3"
+    "url": "assets/sounds/pickle-rick.mp3",
+    "tags": ["Rick and Morty", "Pickle"]
   },
   {
     "id": 21,
     "title": "Ah!",
     "pictureUrl": "https://media4.giphy.com/media/L32GP5Oxzld5KyxKK8/200.gif",
-    "url": "assets/sounds/ah.mp3"
+    "url": "assets/sounds/ah.mp3",
+    "tags": ["Surprise", "Denis Brogniart", "Koh Lanta"]
   },
   {
     "id": 22,
     "title": "Ça va péter",
     "pictureUrl": "https://c.tenor.com/h2BpRrOyw6gAAAAd/p%C3%A9ter-peter.gif",
     "url": "assets/sounds/ca-va-peter-2.mp3",
-    "extended": "assets/sounds/extended/ca-va-peter-2-extended.mp3"
+    "extended": "assets/sounds/extended/ca-va-peter-2-extended.mp3",
+    "tags": ["Grenade", "Péter"]
   },
   {
     "id": 23,
     "title": "Waw",
     "pictureUrl": "https://thumbs.gfycat.com/AlienatedHighlevelArthropods-size_restricted.gif",
-    "url": "assets/sounds/waw.mp3"
+    "url": "assets/sounds/waw.mp3",
+    "tags": ["Homme", "Eddy Wally"]
   },
   {
     "id": 24,
     "title": "Leviosaaaa",
     "pictureUrl": "https://i.makeagif.com/media/9-09-2015/vsByaJ.gif",
-    "url": "assets/sounds/leviosa.mp3"
+    "url": "assets/sounds/leviosa.mp3",
+    "tags": ["Harry Potter", "Magie", "Gênant"]
   },
   {
     "id": 25,
     "title": "Humiliation",
     "pictureUrl": "https://thumbs.gfycat.com/BogusUnnaturalBorzoi-size_restricted.gif",
-    "url": "assets/sounds/humiliation.mp3"
+    "url": "assets/sounds/humiliation.mp3",
+    "tags": ["Humiliation", "Counter Strike"]
   },
   {
     "id": 26,
     "title": "Cantina",
     "pictureUrl": "https://media.tenor.com/images/6315f95c54584aba6e8b7162365e1316/tenor.gif",
-    "url": "assets/sounds/cantina.mp3"
+    "url": "assets/sounds/cantina.mp3",
+    "tags": ["Musique", "Star Wars"]
   },
   {
     "id": 27,
     "title": "Nein Nein Nein",
     "pictureUrl": "https://media1.tenor.com/images/0468fc5a88cd8300e592efb7bbf4bbf3/tenor.gif?itemid=10381316",
     "url": "assets/sounds/nein.mp3",
+    "tags": ["Homme", "Flippant", "Énervé"],
     "nsfw": true
   },
   {
     "id": 28,
     "title": "Alerte aux gogoles !",
     "pictureUrl": "https://thumbs.gfycat.com/ConcreteHugeAnteater-size_restricted.gif",
-    "url": "assets/sounds/alerte-aux-gogoles.mp3"
+    "url": "assets/sounds/alerte-aux-gogoles.mp3",
+    "tags": ["Homme", "South Park"]
   },
   {
     "id": 29,
     "title": "Ameno",
     "pictureUrl": "https://media1.giphy.com/media/w9XMkAMXGZaqWWUncz/200.gif",
-    "url": "assets/sounds/ameno.mp3"
+    "url": "assets/sounds/ameno.mp3",
+    "tags": ["Musique", "Religieux"]
   },
   {
     "id": 30,
     "title": "Pierre",
     "pictureUrl": "https://c.tenor.com/mtuxvhLOPL4AAAAC/pierre-here-im.gif",
-    "url": "assets/sounds/pierre.mp3"
+    "url": "assets/sounds/pierre.mp3",
+    "tags": ["Homme", "RRRrrrr"]
   },
   {
     "id": 31,
     "title": "Saint Vergeron",
     "pictureUrl": "https://i.makeagif.com/media/5-14-2017/joU9GL.gif",
-    "url": "assets/sounds/saint-vergeron.mp3"
+    "url": "assets/sounds/saint-vergeron.mp3",
+    "tags": ["Homme", "Religieux"]
   },
   {
     "id": 32,
     "title": "Shame",
     "pictureUrl": "https://media.tenor.com/images/f6f91f0f5bd4d733e1fb9dfee1c37580/tenor.gif",
-    "url": "assets/sounds/shame.mp3"
+    "url": "assets/sounds/shame.mp3",
+    "tags": ["Femme", "Game Of Throne", "Humiliation", "Religieux"]
   },
   {
     "id": 33,
     "title": "Hodor",
     "pictureUrl": "https://38.media.tumblr.com/48205bdf45d0060f3b926499c52c5f06/tumblr_nxkzayKVfu1uqe8iio1_250.gif",
-    "url": "assets/sounds/hodor.mp3"
+    "url": "assets/sounds/hodor.mp3",
+    "tags": ["Homme", "Game Of Throne"]
   },
   {
     "id": 34,
     "title": "One Pound Fish",
     "pictureUrl": "https://i.makeagif.com/media/9-17-2015/-0L4nW.gif",
-    "url": "assets/sounds/one-pound-fish.mp3"
+    "url": "assets/sounds/one-pound-fish.mp3",
+    "tags": ["Homme", "Musique"]
   },
   {
     "id": 35,
     "title": "Burgir",
     "pictureUrl": "https://media.tenor.com/images/7a031b35b7b855a7c610b6c8559aeadd/tenor.gif",
-    "url": "assets/sounds/burgir.mp3"
+    "url": "assets/sounds/burgir.mp3",
+    "tags": ["Enfant", "Burger", "Content"]
   },
   {
     "id": 36,
     "title": "Mais enfin Ron",
     "pictureUrl": "https://i.makeagif.com/media/6-25-2015/ZTBXel.gif",
     "url": "assets/sounds/mais-enfin-ron.mp3",
+    "tags": ["Harry Potter", "Magie", "Gênant"],
     "nsfw": true
   },
   {
     "id": 37,
     "title": "No god",
     "pictureUrl": "https://c.tenor.com/kbQv5cIBq8IAAAAM/the-office-steve-carell.gif",
-    "url": "assets/sounds/no-god.mp3"
+    "url": "assets/sounds/no-god.mp3",
+    "tags": ["Homme", "The Office", "Michael Scott"]
   },
   {
     "id": 38,
     "title": "Le pen malaise",
     "pictureUrl": "https://c.tenor.com/kbWPM-FKQPcAAAAC/ils-sont-la-isl-sont-dnas-les-campagnes.gif",
-    "url": "assets/sounds/le-pen.mp3"
+    "url": "assets/sounds/le-pen.mp3",
+    "tags": ["Le Pen", "Malaise", "Femme", "Politique"]
   },
   {
     "id": 39,
     "title": "Jeanne au secours",
     "pictureUrl": "https://c.tenor.com/AdTWLoW6RyYAAAAC/jeanne-au-secours-jean-marie-le-pen.gif",
-    "url": "assets/sounds/jeanne-au-secours.mp3"
+    "url": "assets/sounds/jeanne-au-secours.mp3",
+    "tags": ["Le Pen", "Malaise", "Homme", "Politique"]
   },
   {
     "id": 40,
     "title": "Final Countdown",
     "pictureUrl": "https://i.pinimg.com/originals/8b/f6/fe/8bf6fee0f46fbe68560821d5f64830df.gif",
-    "url": "assets/sounds/final-countdown.mp3"
+    "url": "assets/sounds/final-countdown.mp3",
+    "tags": ["Musique"]
   },
   {
     "id": 41,
     "title": "C'est pas toi qui décide",
     "pictureUrl": "https://i.makeagif.com/media/3-29-2019/eZRO8z.gif",
-    "url": "assets/sounds/ouais-mais-cest-pas-toi-qui-decide.mp3"
+    "url": "assets/sounds/ouais-mais-cest-pas-toi-qui-decide.mp3",
+    "tags": ["Saturé", "Homme"]
   },
   {
     "id": 42,
     "title": "Jurassic Park Theme Song",
     "pictureUrl": "https://thumbs.gfycat.com/FragrantBitesizedJapanesebeetle-max-1mb.gif",
-    "url": "assets/sounds/jurassic-park.mp3"
+    "url": "assets/sounds/jurassic-park.mp3",
+    "tags": ["Jurassic", "Musique", "Flute"]
   },
   {
     "id": 43,
     "title": "Je vous emmerde et je rentre à ma maison",
     "pictureUrl": "https://i.skyrock.net/8074/60848074/pics/2492111643_4.gif",
-    "url": "assets/sounds/je-vous-emmerde-et-je-rentre-a-ma-maison.mp3"
+    "url": "assets/sounds/je-vous-emmerde-et-je-rentre-a-ma-maison.mp3",
+    "tags": ["Enfant", "Cartman", "South Park", "Vulgaire"]
   },
   {
     "id": 44,
     "title": "Thats what she said.",
     "pictureUrl": "https://media0.giphy.com/media/IjJ8FVe4HVk66yvlV2/giphy.gif",
     "url": "assets/sounds/thats-what-she-said.mp3",
-    "tags": ["Homme", "The Office"]
+    "tags": ["Homme", "The Office", "Michael Scott"]
   },
   {
     "id": 45,
@@ -352,7 +396,7 @@
     "title": "Quelle indignité",
     "pictureUrl": "https://c.tenor.com/3wv4a0Qco7kAAAAC/sarkozy-indignit%C3%A9.gif",
     "url": "assets/sounds/quelle-indignite.mp3",
-    "tags": ["Sarkozy", "Homme", "Indignité", "Humiliation", "Saturé"]
+    "tags": ["Sarkozy", "Homme", "Indignité", "Humiliation", "Saturé", "Politique"]
   },
   {
     "id": 56,
@@ -407,7 +451,7 @@
     "pictureUrl": "https://c.tenor.com/KsE4YxgXzqcAAAAC/hungarian-top-gamers2019hungary.gif",
     "url": "assets/sounds/crazy-frog.mp3",
     "extended": "assets/sounds/extended/crazy-frog-extended.mp3",
-    "tags": ["Enfants", "Crazy", "Frog", "Danse", "Musique"]
+    "tags": ["Enfant", "Crazy", "Frog", "Danse", "Musique"]
   },
   {
     "id": 63,
@@ -463,10 +507,10 @@
   },
   {
     "id": 70,
-    "title": "Chanson du poireau",
+    "title": "Musique du poireau",
     "pictureUrl": "https://i.kym-cdn.com/photos/images/newsfeed/000/328/161/576.gif",
     "url": "assets/sounds/poireau-song.mp3",
-    "tags": ["Chanson", "Poireau", "Musique", "Danse", "Femme"],
+    "tags": ["Poireau", "Musique", "Danse", "Femme"],
     "extended": "assets/sounds/extended/poireau-song-extended.mp3"
   },
   {
@@ -515,7 +559,7 @@
     "title": "T'es un champion toi",
     "pictureUrl": "https://media.giphy.com/media/SknP6uxiM8qSjIg91y/giphy.gif",
     "url": "assets/sounds/champion.mp3",
-    "tags": ["Champion", "Enfants", "Humiliation"],
+    "tags": ["Champion", "Enfant", "Humiliation"],
     "new": true
   },
   {

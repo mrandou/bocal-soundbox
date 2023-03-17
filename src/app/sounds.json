@@ -48,7 +48,7 @@
     "title": "John Cena",
     "pictureUrl": "https://thumbs.gfycat.com/GrippingFrequentAmericanbulldog-max-1mb.gif",
     "url": "assets/sounds/john-cena.mp3",
-    "tags": ["Catch", "Sport", "Musique", "Epic"]
+    "tags": ["Catch", "Sport", "Musique", "Epic", "Saturé"]
   },
   {
     "id": 7,
@@ -90,7 +90,7 @@
     "title": "Mais oui c'est clair",
     "pictureUrl": "https://thumbs.gfycat.com/DeficientGreenHound-size_restricted.gif",
     "url": "assets/sounds/mais-oui-cest-clair.mp3",
-    "tags": ["Homme"]
+    "tags": ["Homme", "Eddy Malou"]
   },
   {
     "id": 13,
@@ -211,7 +211,7 @@
     "title": "Ameno",
     "pictureUrl": "https://media1.giphy.com/media/w9XMkAMXGZaqWWUncz/200.gif",
     "url": "assets/sounds/ameno.mp3",
-    "tags": ["Musique", "Religieux"]
+    "tags": ["Musique", "Religieux", "Epic"]
   },
   {
     "id": 30,

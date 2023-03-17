@@ -1,11 +1,19 @@
-<div class="card" (click)="playAudio()">
+<div class="card">
+  <div class="title">
+    {{ sound.title }}
+  </div>
   <div class="keyboard-key" *ngIf="sound.id < 62">{{ getKey() }}</div>
   <div *ngIf="sound.new" class="new-badge">NEW</div>
   <div *ngIf="sound.nsfw" class="nsfw-badge">NSFW</div>
-  <div class="picture" [ngStyle]="{'background-color': getColor(sound.id)}">
+  <div class="picture"  (click)="playAudio()" [ngStyle]="{'background-color': getColor(sound.id)}">
     <img *ngIf="sound.pictureUrl" [src]="sound.pictureUrl"/>
   </div>
-  <div class="title">
-    {{ sound.title }}
+  <div class="wrapper-tags">
+    <span class="tags" *ngFor="let tag of sound.tags">
+      #{{ tag }}
+    </span>
+  </div>
+  <div class="extended-button" *ngIf="!!sound.extended">
+    <button (click)="playAudio(true)">▶ Extended </button>
   </div>
 </div>

@@ -13,7 +13,6 @@ export class AppComponent {
   public sounds: Sound[] = data;
   public audiosList: HTMLAudioElement[] = [];
   public isLoading: boolean = true;
-  public extendedVersion: boolean = false;
 
   constructor() {
     setTimeout(() => {

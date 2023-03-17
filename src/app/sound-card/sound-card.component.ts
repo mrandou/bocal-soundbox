@@ -12,6 +12,7 @@ export class SoundCardComponent implements OnInit {
   @Input() public sound: Sound;
   @Output() public playingAudio = new EventEmitter<HTMLAudioElement>();
   @Output() public picturesLoading = new EventEmitter<string>();
+  @Output() public searchByTag = new EventEmitter<string>();
 
   public audio: HTMLAudioElement;
 
@@ -46,6 +47,10 @@ export class SoundCardComponent implements OnInit {
       this.audio.play()
     else
       this.audio.pause();
+  }
+
+  public emitSearchByTag(tag: string): void {
+    this.searchByTag.emit(tag);
   }
 
   public loadingEmitter(title: string) {

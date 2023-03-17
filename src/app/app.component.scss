@@ -88,3 +88,32 @@
   margin-top: 10px;
   font-size: 18px;
 }
+
+.wrapper-search {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.input {
+  width: 40%;
+  height: 30px;
+  padding: 10px;
+  border-radius: 20px;
+  font-size: 15px;
+  color: #ff854d;
+  border-style: solid;
+  border-color: #ff854d !important;
+}
+
+.search-button {
+  margin: 0px 10px;
+  padding: 10px 15px;
+  border-radius: 15px;
+  background-image: linear-gradient(to right, #ff854d, #ff3300);
+  border: none;
+  color: white;
+  font-size: 15px;
+  cursor: pointer;
+}

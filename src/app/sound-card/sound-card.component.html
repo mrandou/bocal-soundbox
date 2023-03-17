@@ -9,7 +9,7 @@
     <img *ngIf="sound.pictureUrl" [src]="sound.pictureUrl" (load)="loadingEmitter(sound.title)"/>
   </div>
   <div class="wrapper-tags">
-    <span class="tags" *ngFor="let tag of sound.tags">
+    <span class="tags" *ngFor="let tag of sound.tags" (click)="emitSearchByTag(tag)">
       #{{ tag }}
     </span>
   </div>

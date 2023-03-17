@@ -6,12 +6,22 @@
 </div>
 
 <div [hidden]="loadingProgression < sounds.length - 1">
+  <div class="wrapper-search">
+    <input 
+      class="input" 
+      [ngModel]="searchInput"
+      id="search-input"
+      (keyup)="searchChange($event.target.value)"
+      placeholder="Rechercher un son (Star Wars, Gitan, Énervé..)"
+    >
+  </div>
   <div class="wrapper-cards">
-    <div *ngFor="let sound of sounds">
+    <div *ngFor="let sound of displayedSounds || sounds">
       <sound-card
         [sound]="sound"
         (picturesLoading)="picturesLoading($event)"
         (playingAudio)="pushToSoundList($event)"
+        (searchByTag)="searchByTag($event)"
       ></sound-card>
     </div>
   </div>

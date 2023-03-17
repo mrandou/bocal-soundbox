@@ -6,7 +6,7 @@
   <div *ngIf="sound.new" class="new-badge">NEW</div>
   <div *ngIf="sound.nsfw" class="nsfw-badge">NSFW</div>
   <div class="picture"  (click)="playAudio()" [ngStyle]="{'background-color': getColor(sound.id)}">
-    <img *ngIf="sound.pictureUrl" [src]="sound.pictureUrl"/>
+    <img *ngIf="sound.pictureUrl" [src]="sound.pictureUrl" (load)="loadingEmitter(sound.title)"/>
   </div>
   <div class="wrapper-tags">
     <span class="tags" *ngFor="let tag of sound.tags">

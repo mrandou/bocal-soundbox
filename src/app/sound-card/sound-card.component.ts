@@ -1,26 +1,17 @@
 import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 import { keyboardMap } from 'utilites/keyMap';
-
-export interface Sound {
-  id: number
-  title: string;
-  pictureUrl: string;
-  url: string;
-  extended?: string;
-  new?: boolean;
-  nsfw?: boolean;
-  tags?: string[];
-}
-
+import { Colors } from '../models/card';
+import { Sound } from '../models/sound';
 @Component({
   selector: 'sound-card',
   templateUrl: './sound-card.component.html',
   styleUrls: ['./sound-card.component.scss']
 })
 export class SoundCardComponent implements OnInit {
-  public colors: string[] = ["dodgerblue", "red", "yellow", "purple", "orange", "cyan", "greenyellow", "pink"];
+  public colors: string[] = Colors;
   @Input() public sound: Sound;
   @Output() public playingAudio = new EventEmitter<HTMLAudioElement>();
+  @Output() public picturesLoading = new EventEmitter<string>();
 
   public audio: HTMLAudioElement;
 
@@ -55,6 +46,10 @@ export class SoundCardComponent implements OnInit {
       this.audio.play()
     else
       this.audio.pause();
+  }
+
+  public loadingEmitter(title: string) {
+    this.picturesLoading.emit(title);
   }
 
 }

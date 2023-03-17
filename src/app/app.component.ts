@@ -1,6 +1,6 @@
 import { Component, HostListener } from '@angular/core';
 import { keyboardMap } from 'utilites/keyMap';
-import { Sound } from './sound-card/sound-card.component';
+import { Sound } from './models/sound';
 import data from './sounds.json';
 
 @Component({
@@ -12,13 +12,10 @@ export class AppComponent {
   title = 'bocal-soundbox';
   public sounds: Sound[] = data;
   public audiosList: HTMLAudioElement[] = [];
-  public isLoading: boolean = true;
+  public loadingProgression: number = 0;
+  public lastGifLoaded: string;
 
-  constructor() {
-    setTimeout(() => {
-      this.isLoading = false;
-    }, 3000)
-  }
+  constructor() { }
 
   public pushToSoundList(audio: HTMLAudioElement): void {
     this.audiosList.push(audio);
@@ -43,6 +40,11 @@ export class AppComponent {
       if (id === data[i].id)
         return data[i];
     }
+  }
+
+  public picturesLoading(picture: string): void {
+    this.lastGifLoaded = picture
+    this.loadingProgression++;
   }
 
   @HostListener('window:keyup', ['$event'])

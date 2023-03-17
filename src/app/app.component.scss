@@ -35,11 +35,14 @@
   transform: translate(-50%, -50%);
   img {
     width: 250px;
+    -webkit-animation: shadow-drop-center 0.5s cubic-bezier(0.47, 0, 0.745, 0.715)
+      infinite alternate-reverse both;
+    animation: shadow-drop-center 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) infinite
+      alternate-reverse both;
   }
-  -webkit-animation: shadow-drop-center 0.5s cubic-bezier(0.47, 0, 0.745, 0.715)
-    infinite alternate-reverse both;
-  animation: shadow-drop-center 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) infinite
-    alternate-reverse both;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 @-webkit-keyframes shadow-drop-center {
@@ -78,4 +81,10 @@
 
 .active {
   color: #ff854d;
+}
+
+.gif-title {
+  color: #ff854d;
+  margin-top: 10px;
+  font-size: 18px;
 }

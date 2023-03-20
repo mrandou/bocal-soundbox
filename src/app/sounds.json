@@ -534,16 +534,14 @@
     "title": "J'aime bien",
     "pictureUrl": "https://media.tenor.com/C4n2mB21UboAAAAd/ritchie-voila.gif",
     "url": "assets/sounds/jaime-bien.mp3",
-    "tags": ["Homme", "Content"],
-    "new": true
+    "tags": ["Homme", "Content"]
   },
   {
     "id": 74,
     "title": "Chevre qui crie",
     "pictureUrl": "https://media.tenor.com/YtWSJukoUk8AAAAM/huyazyuza-goat.gif",
     "url": "assets/sounds/chevre.mp3",
-    "tags": ["Cris", "Animaux", "Hurlement", "Chèvre", "Énervé"],
-    "new": true
+    "tags": ["Cris", "Animaux", "Hurlement", "Chèvre", "Énervé"]
   },
   {
     "id": 75,
@@ -551,24 +549,21 @@
     "pictureUrl": "https://media2.giphy.com/media/ROcSJHrOhhBkc/giphy.gif",
     "url": "assets/sounds/marmotte.mp3",
     "extended": "assets/sounds/extended/marmotte-extended.mp3",
-    "tags": ["Cris", "Animaux", "Hurlement", "Marmotte", "Énervé"],
-    "new": true
+    "tags": ["Cris", "Animaux", "Hurlement", "Marmotte", "Énervé"]
   },
   {
     "id": 76,
     "title": "T'es un champion toi",
     "pictureUrl": "https://media.giphy.com/media/SknP6uxiM8qSjIg91y/giphy.gif",
     "url": "assets/sounds/champion.mp3",
-    "tags": ["Champion", "Enfant", "Humiliation"],
-    "new": true
+    "tags": ["Champion", "Enfant", "Humiliation"]
   },
   {
     "id": 77,
     "title": "Ça pousse",
     "pictureUrl": "https://media.tenor.com/3hSPNOOkIksAAAAM/etienne-bolidage.gif",
     "url": "assets/sounds/ca-pousse.mp3",
-    "tags": ["Etienne", "Bolideur", "Bolidage", "Voiture", "Tuning", "Homme"],
-    "new": true
+    "tags": ["Etienne", "Bolideur", "Bolidage", "Voiture", "Tuning", "Homme"]
   },
   {
     "id": 78,
@@ -577,6 +572,32 @@
     "url": "assets/sounds/attention-grenade.mp3",
     "extended": "assets/sounds/extended/attention-grenade-extended.mp3",
     "tags": ["Grenade", "Attention", "Jeunes", "Manifestation", "Homme"],
+    "new": true
+  },
+  {
+    "id": 79,
+    "title": "Okaaay let's go !",
+    "pictureUrl": "https://media.tenor.com/kA9FRdP2JU4AAAAC/okay-lets.gif",
+    "url": "assets/sounds/okay-lets-go.mp3",
+    "extended": "assets/sounds/extended/okay-lets-go-extended.mp3",
+    "tags": ["Enfant", "Musique", "Ridicule", "Gênant"],
+    "new": true
+  },
+  {
+    "id": 80,
+    "title": "Parkour",
+    "pictureUrl": "https://media.tenor.com/xOU6wSDoLOsAAAAC/parkour-the-office.gif",
+    "url": "assets/sounds/parkour.mp3",
+    "extended": "assets/sounds/extended/parkour-extended.mp3",
+    "tags": ["The Office", "Michael Scott", "Sport"],
+    "new": true
+  },
+  {
+    "id": 80,
+    "title": "Ça fait beaucoup là",
+    "pictureUrl": "https://media.tenor.com/iGvU2A-RrqsAAAAd/%C3%A7a-fait-beaucoup-la-non.gif",
+    "url": "assets/sounds/ca-fait-beaucoup-la-non.mp3",
+    "tags": ["Mister V", "Non"],
     "new": true
   }
 ]

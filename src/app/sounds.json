@@ -132,7 +132,7 @@
     "title": "Nope",
     "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEcSojPWsAiNBcZDOOzFg9bK__JvkUMIKmZRJXax3iX8jKS140WAKsRbCvH2QWsbidHFI&usqp=CAU",
     "url": "assets/sounds/nope.mp3",
-    "tags": ["Homme", "Humiliation"]
+    "tags": ["Homme", "Humiliation", "Non"]
   },
   {
     "id": 19,
@@ -571,8 +571,7 @@
     "pictureUrl": "https://media.tenor.com/4X2om0JPIn4AAAAd/frederic-delavier.gif",
     "url": "assets/sounds/attention-grenade.mp3",
     "extended": "assets/sounds/extended/attention-grenade-extended.mp3",
-    "tags": ["Grenade", "Attention", "Jeunes", "Manifestation", "Homme"],
-    "new": true
+    "tags": ["Grenade", "Attention", "Jeunes", "Manifestation", "Homme"]
   },
   {
     "id": 79,
@@ -593,11 +592,29 @@
     "new": true
   },
   {
-    "id": 80,
+    "id": 81,
     "title": "Ça fait beaucoup là",
     "pictureUrl": "https://media.tenor.com/iGvU2A-RrqsAAAAd/%C3%A7a-fait-beaucoup-la-non.gif",
     "url": "assets/sounds/ca-fait-beaucoup-la-non.mp3",
     "tags": ["Mister V", "Non"],
+    "new": true
+  },
+  {
+    "id": 82,
+    "title": "C'est super ça",
+    "pictureUrl": "https://media.tenor.com/BYC9UFRxulAAAAAd/mais-cest-super-ca-its-great.gif",
+    "url": "assets/sounds/c-est-super-ca.mp3",
+    "extended": "assets/sounds/extended/c-est-super-ca-extended.mp3",
+    "tags": ["Enfant", "Content"],
+    "new": true
+  },
+  {
+    "id": 83,
+    "title": "Macron c'est ma p*te",
+    "pictureUrl": "https://media.tenor.com/P55lPTSrrZQAAAAC/techniquement-cest-ma-pute.gif",
+    "url": "assets/sounds/macron-c-est-ma-pvte.mp3",
+    "tags": ["Gilet Jaune", "Macron", "Humiliation", "Manifestation", "Vulgaire", "Homme"],
+    "nsfw": true,
     "new": true
   }
 ]

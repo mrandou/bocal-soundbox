@@ -616,5 +616,13 @@
     "tags": ["Gilet Jaune", "Macron", "Humiliation", "Manifestation", "Vulgaire", "Homme"],
     "nsfw": true,
     "new": true
+  },
+  {
+    "id": 84,
+    "title": "Pet micro",
+    "pictureUrl": "https://media.giphy.com/media/OQP27xpIXRR6TiFPnJ/giphy.gif",
+    "url": "assets/sounds/pet-micro.mp3",
+    "tags": ["Pet", "Gênant", "Péter"],
+    "new": true
   }
 ]

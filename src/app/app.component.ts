@@ -53,6 +53,15 @@ export class AppComponent {
     this.searchChange(tag);
   }
 
+  public clearSearch(): void {
+    this.searchChange("");
+    (document.getElementById("search-input") as HTMLInputElement).value = "";
+  }
+
+  public hasSearchValue(): boolean {
+    return !!(document.getElementById("search-input") as HTMLInputElement).value;
+  }
+
   private smoothingString(str: string): string {
     return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
   }

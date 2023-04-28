@@ -579,8 +579,7 @@
     "pictureUrl": "https://media.tenor.com/kA9FRdP2JU4AAAAC/okay-lets.gif",
     "url": "assets/sounds/okay-lets-go.mp3",
     "extended": "assets/sounds/extended/okay-lets-go-extended.mp3",
-    "tags": ["Enfant", "Musique", "Ridicule", "Gênant"],
-    "new": true
+    "tags": ["Enfant", "Musique", "Ridicule", "Gênant"]
   },
   {
     "id": 80,
@@ -588,16 +587,14 @@
     "pictureUrl": "https://media.tenor.com/xOU6wSDoLOsAAAAC/parkour-the-office.gif",
     "url": "assets/sounds/parkour.mp3",
     "extended": "assets/sounds/extended/parkour-extended.mp3",
-    "tags": ["The Office", "Michael Scott", "Sport"],
-    "new": true
+    "tags": ["The Office", "Michael Scott", "Sport"]
   },
   {
     "id": 81,
     "title": "Ça fait beaucoup là",
     "pictureUrl": "https://media.tenor.com/iGvU2A-RrqsAAAAd/%C3%A7a-fait-beaucoup-la-non.gif",
     "url": "assets/sounds/ca-fait-beaucoup-la-non.mp3",
-    "tags": ["Mister V", "Non"],
-    "new": true
+    "tags": ["Mister V", "Non"]
   },
   {
     "id": 82,
@@ -605,8 +602,7 @@
     "pictureUrl": "https://media.tenor.com/BYC9UFRxulAAAAAd/mais-cest-super-ca-its-great.gif",
     "url": "assets/sounds/c-est-super-ca.mp3",
     "extended": "assets/sounds/extended/c-est-super-ca-extended.mp3",
-    "tags": ["Enfant", "Content"],
-    "new": true
+    "tags": ["Enfant", "Content"]
   },
   {
     "id": 83,
@@ -614,15 +610,37 @@
     "pictureUrl": "https://media.tenor.com/P55lPTSrrZQAAAAC/techniquement-cest-ma-pute.gif",
     "url": "assets/sounds/macron-c-est-ma-pvte.mp3",
     "tags": ["Gilet Jaune", "Macron", "Humiliation", "Manifestation", "Vulgaire", "Homme"],
-    "nsfw": true,
-    "new": true
+    "nsfw": true
   },
   {
     "id": 84,
     "title": "Pet micro",
     "pictureUrl": "https://media.giphy.com/media/OQP27xpIXRR6TiFPnJ/giphy.gif",
     "url": "assets/sounds/pet-micro.mp3",
-    "tags": ["Pet", "Gênant", "Péter"],
+    "tags": ["Pet", "Gênant", "Péter"]
+  },
+  {
+    "id": 85,
+    "title": "Tutut fils de p*te",
+    "pictureUrl": "https://media.tenor.com/jXZHHOUoviMAAAAC/vbrequin-vilebrequin.gif",
+    "url": "assets/sounds/tutut.mp3",
+    "tags": ["Vulgaire", "Vilbrequin"],
+    "new": true
+  },
+  {
+    "id": 86,
+    "title": "Envie de crever",
+    "pictureUrl": "https://media.tenor.com/jN3Au5wKUNIAAAAC/vilebrequin-envie-de-crever.gif",
+    "url": "assets/sounds/envie-de-crever.mp3",
+    "tags": ["Vulgaire", "Vilbrequin", "Homme"],
+    "new": true
+  },
+  {
+    "id": 87,
+    "title": "Combien ??",
+    "pictureUrl": "https://media.tenor.com/Oa5dSFipnm0AAAAC/combien-cit%C3%A9de-la-peur.gif",
+    "url": "assets/sounds/combien.mp3",
+    "tags": ["Abasourdir", "Homme"],
     "new": true
   }
 ]

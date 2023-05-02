@@ -642,5 +642,38 @@
     "url": "assets/sounds/combien.mp3",
     "tags": ["Abasourdir", "Homme"],
     "new": true
+  },
+  {
+    "id": 88,
+    "title": "J'adore rire",
+    "pictureUrl": "https://media.tenor.com/quT7TdC5uJwAAAAM/jadore-rire.gif",
+    "url": "assets/sounds/j-adore-rire.mp3",
+    "tags": ["Rire", "Femme"],
+    "new": true
+  },
+  {
+    "id": 89,
+    "title": "Cri de Wilhelm",
+    "pictureUrl": "https://media.tenor.com/7crdHrZL5dsAAAAM/po-dies.gif",
+    "url": "assets/sounds/cri-wilhelm.mp3",
+    "tags": ["Cri", "Homme", "Ridicule"],
+    "new": true
+  },
+  {
+    "id": 90,
+    "title": "C'est de toute beauté",
+    "pictureUrl": "https://media.tenor.com/Fg7wYyxZ-p8AAAAC/%C3%A9ric-judor-woah.gif",
+    "url": "assets/sounds/c-est-de-toute-beaute.mp3",
+    "tags": ["Homme", "Ridicule"],
+    "new": true
+  },
+  {
+    "id": 91,
+    "title": "Roi Lion",
+    "pictureUrl": "https://thumbs.gfycat.com/CandidAptAmericanwirehair-max-1mb.gif",
+    "url": "assets/sounds/roi-lion.mp3",
+    "extended": "assets/sounds/extended/roi-lion-extended.mp3",
+    "tags": ["Musique", "Epic"],
+    "new": true
   }
 ]

@@ -7,19 +7,16 @@ import { Sound } from '../models/sound';
   templateUrl: './sound-card.component.html',
   styleUrls: ['./sound-card.component.scss']
 })
-export class SoundCardComponent implements OnInit {
+export class SoundCardComponent {
   public colors: string[] = Colors;
   @Input() public sound: Sound;
   @Output() public playingAudio = new EventEmitter<HTMLAudioElement>();
-  @Output() public picturesLoading = new EventEmitter<string>();
   @Output() public searchByTag = new EventEmitter<string>();
+  public isLoaded: boolean = false;
 
   public audio: HTMLAudioElement;
 
   constructor() { }
-
-  public ngOnInit(): void {
-  }
 
   public getColor(index: number) {
     if (index >= this.colors.length)
@@ -53,8 +50,8 @@ export class SoundCardComponent implements OnInit {
     this.searchByTag.emit(tag);
   }
 
-  public loadingEmitter(title: string) {
-    this.picturesLoading.emit(title);
+  public pictureLoaded() {
+    this.isLoaded = true;
   }
 
 }

@@ -1,4 +1,4 @@
-import { Component, ElementRef, HostListener, Input, ViewChild } from '@angular/core';
+import { Component, HostListener, OnInit } from '@angular/core';
 import { keyboardMap } from 'utilites/keyMap';
 import { Sound } from './models/sound';
 import data from './sounds.json';
@@ -8,16 +8,20 @@ import data from './sounds.json';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'],
 })
-export class AppComponent {
+export class AppComponent implements OnInit {
   title = 'bocal-soundbox';
-  public sounds: Sound[] = data;
+  public sounds: Sound[];;
   public displayedSounds: Sound[];
   public audiosList: HTMLAudioElement[] = [];
-  public loadingProgression: number = 0;
-  public lastGifLoaded: string;
+  public isLoading: boolean = true;
   public searchInput: string;
 
   constructor() { }
+
+  ngOnInit(): void {
+    this.sounds = data;
+    setTimeout(() => this.isLoading = false, 2000);
+  }
 
   public pushToSoundList(audio: HTMLAudioElement): void {
     this.audiosList.push(audio);
@@ -41,11 +45,6 @@ export class AppComponent {
       if (id === data[i].id)
         return data[i];
     }
-  }
-
-  public picturesLoading(picture: string): void {
-    this.lastGifLoaded = picture
-    this.loadingProgression++;
   }
 
   public searchByTag(tag: string): void {

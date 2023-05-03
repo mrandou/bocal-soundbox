@@ -1,11 +1,11 @@
-<div *ngIf="loadingProgression < sounds.length - 1" class="launcher-icon">
+<div *ngIf="isLoading" class="launcher-icon">
   <img src="assets/icon.png" alt="soundBox" />
   <div class="gif-title">
-    {{ lastGifLoaded }}
+    The Awesome Bocal Sound Box
   </div>
 </div>
 
-<div [hidden]="loadingProgression < sounds.length - 1">
+<div [hidden]="isLoading">
   <div class="wrapper-search">
     <input 
       class="input" 

@@ -624,32 +624,28 @@
     "title": "Tutut fils de p*te",
     "pictureUrl": "https://media.tenor.com/jXZHHOUoviMAAAAC/vbrequin-vilebrequin.gif",
     "url": "assets/sounds/tutut.mp3",
-    "tags": ["Vulgaire", "Vilbrequin"],
-    "new": true
+    "tags": ["Vulgaire", "Vilbrequin"]
   },
   {
     "id": 86,
     "title": "Envie de crever",
     "pictureUrl": "https://media.tenor.com/jN3Au5wKUNIAAAAC/vilebrequin-envie-de-crever.gif",
     "url": "assets/sounds/envie-de-crever.mp3",
-    "tags": ["Vulgaire", "Vilbrequin", "Homme"],
-    "new": true
+    "tags": ["Vulgaire", "Vilbrequin", "Homme"]
   },
   {
     "id": 87,
     "title": "Combien ??",
     "pictureUrl": "https://media.tenor.com/Oa5dSFipnm0AAAAC/combien-cit%C3%A9de-la-peur.gif",
     "url": "assets/sounds/combien.mp3",
-    "tags": ["Abasourdir", "Homme"],
-    "new": true
+    "tags": ["Abasourdi", "Homme"]
   },
   {
     "id": 88,
     "title": "J'adore rire",
     "pictureUrl": "https://media.tenor.com/quT7TdC5uJwAAAAM/jadore-rire.gif",
     "url": "assets/sounds/j-adore-rire.mp3",
-    "tags": ["Rire", "Femme"],
-    "new": true
+    "tags": ["Rire", "Femme"]
   },
   {
     "id": 89,
@@ -674,6 +670,14 @@
     "url": "assets/sounds/roi-lion.mp3",
     "extended": "assets/sounds/extended/roi-lion-extended.mp3",
     "tags": ["Musique", "Epic"],
+    "new": true
+  },
+  {
+    "id": 92,
+    "title": "Dramatic Chipmunk",
+    "pictureUrl": "https://i.gifer.com/origin/2c/2c9d3c9fe8afdca0149d065dac6ab834.gif",
+    "url": "assets/sounds/dramatic-chipmunk.mp3",
+    "tags": ["Epic", "Animaux", "Surprise", "Suspense", "Abasourdi"],
     "new": true
   }
 ]

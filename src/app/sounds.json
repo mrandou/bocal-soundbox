@@ -480,7 +480,7 @@
     "pictureUrl": "https://thumbs.gfycat.com/AggressiveInferiorCat-max-1mb.gif",
     "url": "assets/sounds/c-est-moi.mp3",
     "extended": "assets/sounds/extended/c-est-moi-extended.mp3",
-    "tags": ["C'est moi", "Homme", "Ridicule"]
+    "tags": ["C'est moi", "Homme", "Ridicule", "Etchebest"]
   },
   {
     "id": 67,
@@ -678,6 +678,23 @@
     "pictureUrl": "https://i.gifer.com/origin/2c/2c9d3c9fe8afdca0149d065dac6ab834.gif",
     "url": "assets/sounds/dramatic-chipmunk.mp3",
     "tags": ["Epic", "Animaux", "Surprise", "Suspense", "Abasourdi"],
+    "new": true
+  },
+  {
+    "id": 93,
+    "title": "Barbra Streisand",
+    "pictureUrl": "https://4.bp.blogspot.com/-0THpoz9oQ_Q/XqK_HO9NwuI/AAAAAAAAwtI/ghtf5rSPgUofSUMBVvHIeLDmNL75XGWTQCNcBGAsYHQ/s1600/Barbra%2Bloves%2Bit.gif",
+    "url": "assets/sounds/barbra-streisand.mp3",
+    "tags": ["Musique"],
+    "new": true
+  },
+  {
+    "id": 94,
+    "title": "Oh c'est con ça",
+    "pictureUrl": "https://media.tenor.com/x9VfUhSpZc0AAAAC/cauchemar-en-cuisine-avec-philippe-etchebest.gif",
+    "url": "assets/sounds/oh-c-est-con-ca.mp3",
+    "extended": "assets/sounds/extended/oh-c-est-con-ca-extended.mp3",
+    "tags": ["Merde", "Abasourdi", "Homme", "Etchebest"],
     "new": true
   }
 ]

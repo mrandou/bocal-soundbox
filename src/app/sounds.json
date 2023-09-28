@@ -197,7 +197,7 @@
     "pictureUrl": "https://media1.tenor.com/images/0468fc5a88cd8300e592efb7bbf4bbf3/tenor.gif?itemid=10381316",
     "url": "assets/sounds/nein.mp3",
     "tags": ["Homme", "Flippant", "Énervé"],
-    "nsfw": true
+    "nsfw": false
   },
   {
     "id": 28,
@@ -261,7 +261,7 @@
     "pictureUrl": "https://i.makeagif.com/media/6-25-2015/ZTBXel.gif",
     "url": "assets/sounds/mais-enfin-ron.mp3",
     "tags": ["Harry Potter", "Magie", "Gênant"],
-    "nsfw": true
+    "nsfw": false
   },
   {
     "id": 37,
@@ -436,7 +436,7 @@
     "url": "assets/sounds/ta-femme....mp3",
     "extended": "assets/sounds/extended/ta-femme...-extended.mp3",
     "tags": ["Gitan", "Énervé", "Cris", "Vulgaire", "Homme"],
-    "nsfw": true
+    "nsfw": false
   },
   {
     "id": 61,
@@ -610,7 +610,7 @@
     "pictureUrl": "https://media.tenor.com/P55lPTSrrZQAAAAC/techniquement-cest-ma-pute.gif",
     "url": "assets/sounds/macron-c-est-ma-pvte.mp3",
     "tags": ["Gilet Jaune", "Macron", "Humiliation", "Manifestation", "Vulgaire", "Homme"],
-    "nsfw": true
+    "nsfw": false
   },
   {
     "id": 84,
@@ -653,7 +653,7 @@
     "pictureUrl": "https://media.tenor.com/7crdHrZL5dsAAAAM/po-dies.gif",
     "url": "assets/sounds/cri-wilhelm.mp3",
     "tags": ["Cri", "Homme", "Ridicule"],
-    "new": true
+    "new": false
   },
   {
     "id": 90,
@@ -661,7 +661,7 @@
     "pictureUrl": "https://media.tenor.com/Fg7wYyxZ-p8AAAAC/%C3%A9ric-judor-woah.gif",
     "url": "assets/sounds/c-est-de-toute-beaute.mp3",
     "tags": ["Homme", "Ridicule"],
-    "new": true
+    "new": false
   },
   {
     "id": 91,
@@ -670,7 +670,7 @@
     "url": "assets/sounds/roi-lion.mp3",
     "extended": "assets/sounds/extended/roi-lion-extended.mp3",
     "tags": ["Musique", "Epic"],
-    "new": true
+    "new": false
   },
   {
     "id": 92,
@@ -678,7 +678,7 @@
     "pictureUrl": "https://i.gifer.com/origin/2c/2c9d3c9fe8afdca0149d065dac6ab834.gif",
     "url": "assets/sounds/dramatic-chipmunk.mp3",
     "tags": ["Epic", "Animaux", "Surprise", "Suspense", "Abasourdi"],
-    "new": true
+    "new": false
   },
   {
     "id": 93,
@@ -686,7 +686,7 @@
     "pictureUrl": "https://4.bp.blogspot.com/-0THpoz9oQ_Q/XqK_HO9NwuI/AAAAAAAAwtI/ghtf5rSPgUofSUMBVvHIeLDmNL75XGWTQCNcBGAsYHQ/s1600/Barbra%2Bloves%2Bit.gif",
     "url": "assets/sounds/barbra-streisand.mp3",
     "tags": ["Musique"],
-    "new": true
+    "new": false
   },
   {
     "id": 94,
@@ -695,6 +695,39 @@
     "url": "assets/sounds/oh-c-est-con-ca.mp3",
     "extended": "assets/sounds/extended/oh-c-est-con-ca-extended.mp3",
     "tags": ["Merde", "Abasourdi", "Homme", "Etchebest"],
+    "new": false
+  },
+  {
+    "id": 95,
+    "title": "Modern Warfart",
+    "pictureUrl": "https://media.giphy.com/media/7Egv7ndK6yIco/giphy.gif",
+    "url": "assets/sounds/modern-warfart.mp3",
+    "tags": ["Guerre", "Pet", "Bombe"],
+    "new": true
+  },
+  {
+    "id": 95,
+    "title": "Pas mal non ? C'est Français",
+    "pictureUrl": "https://media.tenor.com/C6QkwI_3DQQAAAAM/la-classe-am%C3%A9ricaine.gif",
+    "url": "assets/sounds/pas-mal-c-francais.mp3",
+    "extended": "assets/sounds/extended/pas-mal-c-francais-extended.mp3",
+    "tags": ["Homme", "Français", "Vulgaire"],
+    "new": true
+  },
+  {
+    "id": 95,
+    "title": "Bizarre.. Degeulasse",
+    "pictureUrl": "https://i.ytimg.com/vi/e73ClB12k8M/mqdefault.jpg",
+    "url": "assets/sounds/degeulasse.mp3",
+    "tags": ["Femme"],
+    "new": true
+  },
+  {
+    "id": 96,
+    "title": "Oh non pas ça...",
+    "pictureUrl": "https://i.makeagif.com/media/4-25-2017/j5yVEf.gif",
+    "url": "assets/sounds/oh-non-pas-ca.mp3",
+    "tags": ["Homme", "Foot"],
     "new": true
   }
 ]

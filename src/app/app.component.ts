@@ -16,11 +16,14 @@ export class AppComponent implements OnInit {
   public isLoading: boolean = true;
   public searchInput: string;
 
+  public playVideo: boolean = false;
+
   constructor() { }
 
   ngOnInit(): void {
-    this.sounds = data;
-    setTimeout(() => this.isLoading = false, 2000);
+    // this.sounds = data;
+    // setTimeout(() => this.isLoading = false, 2000);
+    setTimeout(() => this.playSound("assets/windows/start.mp3"));
   }
 
   public pushToSoundList(audio: HTMLAudioElement): void {
@@ -83,5 +86,9 @@ export class AppComponent implements OnInit {
       if (event.key === "SPACE")
         this.stopSounds();
     }
+  }
+
+  public startGTA(): void {
+    this.playVideo = true;
   }
 }

@@ -30,20 +30,4 @@
   <div class="main-button">
     <button (click)="stopSounds()"><span>STOP</span></button>
   </div>
-
-
-<div class="windows-container" *ngIf="!playVideo; else gta">
-  <div class="main">
-    <button (click)="startGTA()" class="gta-button"></button>
-    <div class="absolute-block">
-      <img src="assets/windows/gta_exe.png" alt="gta.exe">
-    </div>
-  </div>
-  <div class="windows"></div>
 </div>
-
-<ng-template #gta>
-  <video class="gta" width="100%" height="100%" autoplay>
-    <source src="assets/windows/GrandTechAuto.mp4" type="video/mp4">
-  </video>
-</ng-template>

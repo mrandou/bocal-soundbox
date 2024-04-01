@@ -1,4 +1,4 @@
-<!-- <div *ngIf="isLoading" class="launcher-icon">
+<div *ngIf="isLoading" class="launcher-icon">
   <img src="assets/icon.png" alt="soundBox" />
   <div class="gif-title">
     The Awesome Bocal Sound Box
@@ -30,20 +30,4 @@
   <div class="main-button">
     <button (click)="stopSounds()"><span>STOP</span></button>
   </div>
-</div> -->
-
-<div class="windows-container" *ngIf="!playVideo; else gta">
-  <div class="main">
-    <button (click)="startGTA()" class="gta-button"></button>
-    <div class="absolute-block">
-      <img src="assets/windows/gta_exe.png" alt="gta.exe">
-    </div>
-  </div>
-  <div class="windows"></div>
 </div>
-
-<ng-template #gta>
-  <video class="gta" width="100%" height="100%" autoplay>
-    <source src="https://drive.google.com/file/d/12f420u3ugAaXsrwXkLyzTYLi79Jtg4uZ/view?usp=sharing" type="video/mp4">
-  </video>
-</ng-template>
